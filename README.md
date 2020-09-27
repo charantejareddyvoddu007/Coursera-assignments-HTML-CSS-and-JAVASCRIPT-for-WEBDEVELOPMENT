@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers module 2 coding assignment 
 
-https://charantejareddyvoddu007.github.io/coursera-course-module2-assignment/module2-solutions/index.html
+https://charantejareddyvoddu007.github.io/Coursera-assignments-HTML-CSS-and-JAVASCRIPT-for-WEBDEVELOPMENT/module2-solutions/index.html
 
 Here is what you will need to complete the assignment:
 
